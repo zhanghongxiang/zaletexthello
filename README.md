@@ -1,2 +1,2 @@
 # zaletexthello
-text
+this is zale text
